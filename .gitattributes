@@ -1,1 +1,2 @@
 #pattern  filter=crypt diff=crypt
+SECRETS  filter=crypt diff=crypt
